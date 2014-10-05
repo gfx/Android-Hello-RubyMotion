@@ -3,7 +3,7 @@
 ## RUN
 
 ```sh
-motion device # build and start the app
+rake device # build and start the app
 ```
 
 ## SEE ALSO
